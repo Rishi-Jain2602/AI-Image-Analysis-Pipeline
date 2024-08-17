@@ -11,11 +11,16 @@ https://github.com/user-attachments/assets/0718020c-a3fc-4392-9734-c8ca0aac6390
 ``` bash
 git clone https://github.com/Rishi-Jain2602/AI-Image-Analysis-Pipeline.git
 ```
-2. Install the Project dependencies
+2. Create Virtual Environment
+```bash
+virtualenv venv
+venv\Scripts\activate
+```
+3. Install the Project dependencies
 ```bash
 pip install -r requirements.txt
 ```
-3. To Run Streamlit app
+4. To Run Streamlit app
 ```bash
 cd streamlit_app
 streamlit run app.py
