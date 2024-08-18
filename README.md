@@ -28,7 +28,7 @@ streamlit run app.py
 
 ****
 
-This Jupyter Notebook link: https://github.com/Rishi-Jain2602/Rishi-Jain/blob/main/tables/models/wasserstoff-ai-intern.ipynb
+This Jupyter Notebook link: [link](https://github.com/Rishi-Jain2602/AI-Image-Analysis-Pipeline/blob/main/Image-Analysis.ipynb)
 
 This will provide detailed explanations for each step I took. If the Jupyter notebook doesn't work locally, try running it on Kaggle.
 ****
